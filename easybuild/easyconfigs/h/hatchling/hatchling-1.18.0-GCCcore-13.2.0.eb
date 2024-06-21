@@ -21,9 +21,6 @@ use_pip = True
 sanity_pip_check = True
 
 exts_list = [
-    ('setuptools-scm', '8.0.1', {
-        'checksums': ['e69bf0b8265fdc8f4e070c98235b1b0816ffa8b7f91153400404bf68496012e3'],
-    }),
     ('pathspec', '0.11.2', {
         'checksums': ['e0d8d0ac2f12da61956eb2306b69f9469b42f4deb0f3cb6ed47b9cce9996ced3'],
     }),
@@ -39,6 +36,9 @@ exts_list = [
     }),
     ('packaging', '23.1', {
         'checksums': ['a392980d2b6cffa644431898be54b0045151319d1e7ec34f0cfed48767dd334f'],
+    }),
+    ('setuptools-scm', '8.0.1', {
+        'checksums': ['e69bf0b8265fdc8f4e070c98235b1b0816ffa8b7f91153400404bf68496012e3'],
     }),
     (name, version, {
         'checksums': ['50e99c3110ce0afc3f7bdbadff1c71c17758e476731c27607940cfa6686489ca'],
