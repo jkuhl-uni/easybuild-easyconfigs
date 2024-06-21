@@ -35,7 +35,7 @@ exts_list = [
         'checksums': ['20a3da8e3cb65587cc9f5d5b837bf74edeb480bba9bd8cd4f03ab056d6b06c4c'],
     }),
     ('packaging', '23.1', {
-    a392980d2b6cffa644431898be54b0045151319d1e7ec34f0cfed48767dd334f
+        'checksums': ['a392980d2b6cffa644431898be54b0045151319d1e7ec34f0cfed48767dd334f'],
     }),
     (name, version, {
         'checksums': ['50e99c3110ce0afc3f7bdbadff1c71c17758e476731c27607940cfa6686489ca'],
