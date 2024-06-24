@@ -19,7 +19,7 @@ checksums = [
 
 dependencies = [
     ('Python', '3.10.8'),
-    ('SciPy-bundle', '2022.11'),
+    ('SciPy-bundle', '2023.02'),
     ('protobuf-python', '4.23.0'),
 ]
 
