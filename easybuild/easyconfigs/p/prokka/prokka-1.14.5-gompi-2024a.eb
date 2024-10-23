@@ -13,7 +13,7 @@ version = '1.14.5'
 homepage = 'https://www.vicbioinformatics.com/software.prokka.shtml'
 description = "Prokka is a software tool for the rapid annotation of prokaryotic genomes."
 
-toolchain = {'name': 'gompi', 'version': '2022b'}
+toolchain = {'name': 'gompi', 'version': '2024a'}
 
 source_urls = ['https://github.com/tseemann/prokka/archive/']
 sources = ['v%(version)s.zip']
