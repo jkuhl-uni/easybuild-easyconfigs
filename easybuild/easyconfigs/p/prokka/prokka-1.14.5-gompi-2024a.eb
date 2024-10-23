@@ -24,7 +24,7 @@ dependencies = [
     ('BLAST+', '2.14.1'),
     ('Java', '11', '', SYSTEM),
     ('Bio-SearchIO-hmmer', '1.7.3'),
-    ('parallel', '20240722'),
+    ('parallel', '202430713'),
     ('tbl2asn', '20240618', '-linux64', SYSTEM),
 ]
 
