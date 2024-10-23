@@ -24,8 +24,8 @@ dependencies = [
     ('BLAST+', '2.14.1'),
     ('Java', '11', '', SYSTEM),
     ('Bio-SearchIO-hmmer', '1.7.3'),
-    ('parallel', '202430713'),
-    ('tbl2asn', '20240618', '-linux64', SYSTEM),
+    ('parallel', '20240722'),
+    ('tbl2asn', '20230713', '-linux64', SYSTEM),
 ]
 
 local_bin_files = ['prokka', 'prokka-cdd_to_hmm', 'prokka-genpept_to_fasta_db', 'prokka-tigrfams_to_hmm',
